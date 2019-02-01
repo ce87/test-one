@@ -16,3 +16,4 @@ my name is Cyrus
 
 - sourdough
 - boys and the boat
+git commit --no-verify
